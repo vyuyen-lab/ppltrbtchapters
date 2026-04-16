@@ -11,7 +11,5 @@ if km <= 1:
 elif km <= 20:
     tien = 15000 + (km - 1) * 12000
 else:
-# 243.000 là tổng tiền cố định của 20km đầu (15.000 + 19 * 12.000)
     tien = 243000 + (km - 20) * 10000
-# In ra kết quả một cách đơn giản nhất, không dùng các cú pháp format phức tạp
 print("Số tiền phải trả là:", tien, "VNĐ")
