@@ -1,4 +1,4 @@
-# Danh sách được đặt trong cặp ngoặc vuông [], các phần tử cách nhau bởi dấu phẩy
+
 ds_so = [1, 2, 5, 6, 8, 12, 13, 14, 15, 20]
 print("Danh sách ban đầu là:", ds_so)
 
